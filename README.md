@@ -1,4 +1,4 @@
 # localguidefinalproject
 WEB 110 Final Project
 
-Currently consists of ONLY basic structure for the HTML, no images and very limited CSS work.
+11/9 - Now consists of CSS coding for main content. Still needs aesthetic changes (colors, images.)
